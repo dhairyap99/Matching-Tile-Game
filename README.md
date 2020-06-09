@@ -18,3 +18,6 @@ A simple (python) tile matching game built using the 'pygame' module\
 
 5. Matched tiles are eliminated\
 ![Demo_5](https://github.com/dhairyap99/Matching-Tile-Game/blob/master/gameplay/5.png)
+
+## Voila!!
+
