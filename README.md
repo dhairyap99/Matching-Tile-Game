@@ -1,5 +1,5 @@
 # Tile matching game using pygames module
-A simple (python)tile matching game built using the 'pygame' module\
+A simple (python) tile matching game built using the 'pygame' module\
 (Game assets sourced from: https://www.kenney.nl/ )
 
 
